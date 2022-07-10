@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EmersonWery
-- 👀 I’m interested in ... programming, cryptocurrency, entrepreneurship, and so much more!
-- 🌱 I’m currently learning ... software engineering, both front and back end development. I am also learning a little bit about NFT's.
-- 💞️ I’m looking to collaborate on ... Some idea's I have regarding a website that builds a certain type of resume and then another website that helps influencers find specific people to hire.
-- 📫 How to reach me ... it's easiest to reach me at my email (eljwery@gmail.com) or text me at (858)375-8535
+- 👀 I’m interested in ... Web development,
+- 🌱 I’m currently learning ... Full-stack software Engineering,
+- 📫 How to reach me ... it's easiest to reach me at my email (emersonwery@gmail.com) or text me at (858)375-8535.
 
 <!---
 ElliottWery/ElliottWery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
