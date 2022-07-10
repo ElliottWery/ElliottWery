@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElliottWery
+- 👋 Hi, I’m @EmersonWery
 - 👀 I’m interested in ... programming, cryptocurrency, entrepreneurship, and so much more!
 - 🌱 I’m currently learning ... software engineering, both front and back end development. I am also learning a little bit about NFT's.
 - 💞️ I’m looking to collaborate on ... Some idea's I have regarding a website that builds a certain type of resume and then another website that helps influencers find specific people to hire.
